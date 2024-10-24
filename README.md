@@ -1,0 +1,3 @@
+# Yanyoyo-s-coming-of-age-diary
+学习笔记，持续更新中......
+this is a good place to study:https://github.com/InternLM/Tutorial
